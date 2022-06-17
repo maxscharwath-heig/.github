@@ -33,15 +33,19 @@
 ### POA - Programmation orientée objet avancée
 - [POA Labo 1](https://github.com/maxscharwath-heig/POA-2022-Labo1)
 - [POA Labo 2](https://github.com/maxscharwath-heig/POA-2022-Labo2)
+- [POA Labo 3](https://github.com/maxscharwath-heig/POA-2022-Labo3)
+- [POA Labo 4](https://github.com/maxscharwath-heig/POA-2022-Labo4)
 ### PLP - Paradigmes et langages de programmation 
 - [PLP Labo 1](https://github.com/maxscharwath-heig/PLP-2022-Labo1)
 ### GRE - Graphes et réseaux
 - [GRE Labo 1](https://github.com/maxscharwath-heig/GRE-2022-Labo1)
 - [GRE Labo 2](https://github.com/maxscharwath-heig/GRE-2022-Labo2)
+- [GRE Labo 3](https://github.com/maxscharwath-heig/GRE-2022-Labo3)
 ### MCR - Modèles de conception réutilisables
 - [MCR Labo 1](https://github.com/maxscharwath-heig/MCR-2022-Labo1)
 - [MCR Labo 2](https://github.com/maxscharwath-heig/MCR-2022-Labo2)
+- [MCR Projet](https://github.com/maxscharwath-heig/MCR-2022-Projet)
 ### MAC - Méthodes d'accès aux données
-- [MAC Labo 1](https://github.com/maxscharwath-heig/MAC-2022-Lab1)
-- [MAC Labo 2](https://github.com/maxscharwath-heig/MAC-2022-Lab2)
-- [MAC Labo 3](https://github.com/maxscharwath-heig/MAC-2022-Lab3)
+- [MAC Labo 1](https://github.com/maxscharwath-heig/MAC-2022-Labo1)
+- [MAC Labo 2](https://github.com/maxscharwath-heig/MAC-2022-Labo2)
+- [MAC Labo 3](https://github.com/maxscharwath-heig/MAC-2022-Labo3)
