@@ -30,6 +30,8 @@
 - [SYM Labo 3](https://github.com/maxscharwath-heig/SYM-2021-Labo3)
 - [SYM Labo 4](https://github.com/maxscharwath-heig/SYM-2021-Labo4)
 ## 2022
+### DIL - Processus de développement en ingénierie logicielle
+- [DIL Projet](https://github.com/maxscharwath-heig/DIL-2022-Projet)
 ### POA - Programmation orientée objet avancée
 - [POA Labo 1](https://github.com/maxscharwath-heig/POA-2022-Labo1)
 - [POA Labo 2](https://github.com/maxscharwath-heig/POA-2022-Labo2)
