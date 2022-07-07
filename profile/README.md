@@ -39,6 +39,7 @@
 - [POA Labo 4](https://github.com/maxscharwath-heig/POA-2022-Labo4)
 ### PLP - Paradigmes et langages de programmation 
 - [PLP Labo 1](https://github.com/maxscharwath-heig/PLP-2022-Labo1)
+- [PLP Labo 2](https://github.com/maxscharwath-heig/PLP-2022-Labo2)
 ### GRE - Graphes et réseaux
 - [GRE Labo 1](https://github.com/maxscharwath-heig/GRE-2022-Labo1)
 - [GRE Labo 2](https://github.com/maxscharwath-heig/GRE-2022-Labo2)
