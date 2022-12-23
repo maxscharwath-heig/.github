@@ -1,6 +1,15 @@
 ## Hi there 👋
 
 ## 2022
+### AMT - Applications multi-tiers
+- [AMT Gitflow](https://github.com/maxscharwath-heig/AMT-2022-Gitflow)
+### DAA - Développement d'applications Android
+- [AMT - Labo 1](https://github.com/maxscharwath-heig/DAA-2022-Labo1)
+- [AMT - Labo 2](https://github.com/maxscharwath-heig/DAA-2022-Labo2)
+- [AMT - Labo 3](https://github.com/maxscharwath-heig/DAA-2022-Labo3)
+- [AMT - Labo 4](https://github.com/maxscharwath-heig/DAA-2022-Labo4)
+### SDR - Systèmes distribués et répartis
+- [SDR - Labo 1-2](https://github.com/maxscharwath-heig/SDR-2022-Labo1)
 ### DIL - Processus de développement en ingénierie logicielle
 - [DIL Projet](https://github.com/maxscharwath-heig/DIL-2022-Projet)
 ### GRE - Graphes et réseaux
