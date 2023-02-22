@@ -3,13 +3,25 @@
 ## 2022
 ### AMT - Applications multi-tiers
 - [AMT Gitflow](https://github.com/maxscharwath-heig/AMT-2022-Gitflow)
+- [AMT MicroServices](https://github.com/maxscharwath-heig/AMT-2022-MicroServices)
+- [AMT Labo 3](https://github.com/maxscharwath-heig/AMT-2022-Labo3)
 ### DAA - Développement d'applications Android
-- [AMT - Labo 1](https://github.com/maxscharwath-heig/DAA-2022-Labo1)
-- [AMT - Labo 2](https://github.com/maxscharwath-heig/DAA-2022-Labo2)
-- [AMT - Labo 3](https://github.com/maxscharwath-heig/DAA-2022-Labo3)
-- [AMT - Labo 4](https://github.com/maxscharwath-heig/DAA-2022-Labo4)
+- [DAA - Labo 1](https://github.com/maxscharwath-heig/DAA-2022-Labo1)
+- [DAA - Labo 2](https://github.com/maxscharwath-heig/DAA-2022-Labo2)
+- [DAA - Labo 3](https://github.com/maxscharwath-heig/DAA-2022-Labo3)
+- [DAA - Labo 4](https://github.com/maxscharwath-heig/DAA-2022-Labo4)
+- [DAA - Labo 5](https://github.com/maxscharwath-heig/DAA-2022-Labo5)
 ### SDR - Systèmes distribués et répartis
-- [SDR - Labo 1-2](https://github.com/maxscharwath-heig/SDR-2022-Labo1)
+- [SDR - Labo 1-2](https://github.com/maxscharwath-heig/SDR-2022-Labo1-2)
+- [SDR - Labo 3](https://github.com/maxscharwath-heig/SDR-2022-Labo3)
+- [SDR - Labo 4](https://github.com/maxscharwath-heig/SDR-2022-Labo4)
+### SIO - Simulation et optimisation
+- [SIO - Labo 1](https://github.com/maxscharwath-heig/SIO-2022-Labo1)
+- [SIO - Labo 2](https://github.com/maxscharwath-heig/SIO-2022-Labo2)
+### SLH - Sécurité logicielle haut niveau
+- [SLH - Labo 1](https://github.com/maxscharwath-heig/SLH-2022-Labo1)
+- [SLH - Labo 2](https://github.com/maxscharwath-heig/SLH-2022-Labo2)
+- [SLH - Labo 3](https://github.com/maxscharwath-heig/SLH-2022-Labo3)
 ### DIL - Processus de développement en ingénierie logicielle
 - [DIL Projet](https://github.com/maxscharwath-heig/DIL-2022-Projet)
 ### GRE - Graphes et réseaux
@@ -32,8 +44,10 @@
 - [POA Labo 2](https://github.com/maxscharwath-heig/POA-2022-Labo2)
 - [POA Labo 3](https://github.com/maxscharwath-heig/POA-2022-Labo3)
 - [POA Labo 4](https://github.com/maxscharwath-heig/POA-2022-Labo4)
-### PRG - Projet de groupe
-- [PRG Projet StudyStorm](https://github.com/studystorm)
+### PDG - Projet de groupe
+- [PDG Projet StudyStorm](https://github.com/studystorm)
+### WEB - Technologies web
+- [WEB Projet Toonks](https://github.com/maxscharwath/toonks-game)
 
 ## 2021
 ### PIN - Projet d'informatique
