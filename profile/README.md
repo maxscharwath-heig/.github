@@ -39,14 +39,22 @@
 ### PLP - Paradigmes et langages de programmation 
 - [PLP Labo 1](https://github.com/maxscharwath-heig/PLP-2022-Labo1)
 - [PLP Labo 2](https://github.com/maxscharwath-heig/PLP-2022-Labo2)
-### POA - Programmation orientée objet avancée
-- [POA Labo 1](https://github.com/maxscharwath-heig/POA-2022-Labo1)
+### POA - Programmation orientée objet avancéeD
 - [POA Labo 2](https://github.com/maxscharwath-heig/POA-2022-Labo2)
 - [POA Labo 3](https://github.com/maxscharwath-heig/POA-2022-Labo3)
 - [POA Labo 4](https://github.com/maxscharwath-heig/POA-2022-Labo4)
 ### PDG - Projet de groupe
 - [PDG Projet StudyStorm](https://github.com/studystorm)
 ### WEB - Technologies web
+- [WEB Labo 0](https://github.com/maxscharwath-heig/WEB-2022-Labo0)
+- [WEB Labo 1](https://github.com/maxscharwath-heig/WEB-2022-Labo1)
+- [WEB Labo 2](https://github.com/maxscharwath-heig/WEB-2022-Labo2)
+- [WEB Labo 3](https://github.com/maxscharwath-heig/WEB-2022-Labo3)
+- [WEB Labo 4](https://github.com/maxscharwath-heig/WEB-2022-Labo4)
+- [WEB Labo 5](https://github.com/maxscharwath-heig/WEB-2022-Labo5)
+- [WEB Labo 6](https://github.com/maxscharwath-heig/WEB-2022-Labo6)
+- [WEB Labo 7](https://github.com/maxscharwath-heig/WEB-2022-Labo7)
+- [WEB Test 3](https://github.com/maxscharwath-heig/WEB-2022-Test3)
 - [WEB Projet Toonks](https://github.com/maxscharwath/toonks-game)
 
 ## 2021
