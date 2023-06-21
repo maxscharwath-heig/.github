@@ -1,4 +1,7 @@
 ## Hi there 👋
+
+Bienvenue dans le répertoire de projets pratiques de Maxime Scharwath, un trésor provenant de ses années d'études rigoureuses à l'HEIG-VD. Une part significative de ces travaux est le résultat d'une collaboration étroite et fructueuse avec [Nicolas Crausaz](https://github.com/NicolasCrausaz-HEIG-VD). Conçu comme une archive numérique, ce répertoire vise à préserver l'héritage intellectuel, en mettant en lumière le parcours académique et les compétences acquises de Maxime. Les travaux présentés ici ne sont pas simplement une démonstration de connaissances, mais aussi une représentation des efforts investis, des défis relevés et de l'évolution continue de l'apprentissage. Il est important de souligner que cette organisation est uniquement à des fins d'archivage historique. Nous vous invitons à explorer et à découvrir les traces de cette passionnante aventure académique.
+
 ## 2023
 ### PLM - Programming languages multiverse
 - [PLM - Elm - ElmO, Uno Game](https://github.com/maxscharwath-heig/PLM-2023-ElmO-Game)
